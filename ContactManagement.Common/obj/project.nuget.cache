@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SAMg8i3SpGeDlZP8b0lMBgurCiZcdgA64wXTnFv2riN9xQzu8/Zn4Jskm15v7hQD8+gAvE8rl0qYzm8jdxPFHg==",
+  "dgSpecHash": "P6czRKUtgp1n8ONrWWbk1POfkQ4HkLVQwVJLfZwdEGFYsw6K28wLWjg99hlBUJswnAt9ZPsYnld3qqlTap5V6g==",
   "success": true,
-  "projectFilePath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj",
+  "projectFilePath": "D:\\ThomsonReuters\\ContactManagement.Common\\ContactManagement.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

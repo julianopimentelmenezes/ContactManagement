@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fSiekF8CRxwBEmeI8t2DH2i+iBRmqHnuTDwTDAwsm9fFD+WEbG6l6t6L07Z8QGp0WZB66Mu7ZpJIeD0xklQosw==",
+  "dgSpecHash": "3648u2vYY2sEXW20O0WuWjtZAzGajWwb2PsZfAIAXX7g/hcbwSABt9pftlM3B7QSSLC1qn4fBFh9OsMqD4LZNQ==",
   "success": true,
-  "projectFilePath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj",
+  "projectFilePath": "D:\\ThomsonReuters\\ContactManagement.Domain\\ContactManagement.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juliano.menezes\\.nuget\\packages\\domainvalidationcore\\1.1.1\\domainvalidationcore.1.1.1.nupkg.sha512",
     "C:\\Users\\juliano.menezes\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.2\\microsoft.entityframeworkcore.5.0.2.nupkg.sha512",

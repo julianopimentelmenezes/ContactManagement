@@ -6799,11 +6799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJETO\\ContactManagement\\ContactManagement.IntegrationTest.API\\ContactManagement.IntegrationTest.API.csproj",
+      "projectUniqueName": "D:\\ThomsonReuters\\ContactManagement.IntegrationTest.API\\ContactManagement.IntegrationTest.API.csproj",
       "projectName": "ContactManagement.IntegrationTest.API",
-      "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.IntegrationTest.API\\ContactManagement.IntegrationTest.API.csproj",
+      "projectPath": "D:\\ThomsonReuters\\ContactManagement.IntegrationTest.API\\ContactManagement.IntegrationTest.API.csproj",
       "packagesPath": "C:\\Users\\juliano.menezes\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.IntegrationTest.API\\obj\\",
+      "outputPath": "D:\\ThomsonReuters\\ContactManagement.IntegrationTest.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6824,14 +6824,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\PROJETO\\ContactManagement\\ContactManagement.API\\ContactManagement.API.csproj": {
-              "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.API\\ContactManagement.API.csproj"
+            "D:\\ThomsonReuters\\ContactManagement.API\\ContactManagement.API.csproj": {
+              "projectPath": "D:\\ThomsonReuters\\ContactManagement.API\\ContactManagement.API.csproj"
             },
-            "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj": {
-              "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj"
+            "D:\\ThomsonReuters\\ContactManagement.Business\\ContactManagement.Business.csproj": {
+              "projectPath": "D:\\ThomsonReuters\\ContactManagement.Business\\ContactManagement.Business.csproj"
             },
-            "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
-              "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj"
+            "D:\\ThomsonReuters\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
+              "projectPath": "D:\\ThomsonReuters\\ContactManagement.Domain\\ContactManagement.Domain.csproj"
             }
           }
         }

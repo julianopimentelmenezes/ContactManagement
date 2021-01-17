@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S4mY9aIm1eiOJMlHCH9/g52v1gbNFB0HG0QV+dq3J012TtG18UnRWvMyV5ar4ukPYIEn/IIKFxOdBgjHZWq4lA==",
+  "dgSpecHash": "4JIuMCk/kWzd9eYeSPV0FW0PzrormLMREpK3nhkyfTygWC7bJ1gGq8Yr6zA+cD+f9TVZbINQtqkLZyBUqsYuXA==",
   "success": true,
-  "projectFilePath": "D:\\PROJETO\\ContactManagement\\ContactManagement.IntegrationTest.API\\ContactManagement.IntegrationTest.API.csproj",
+  "projectFilePath": "D:\\ThomsonReuters\\ContactManagement.IntegrationTest.API\\ContactManagement.IntegrationTest.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juliano.menezes\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\juliano.menezes\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

@@ -804,11 +804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj",
+      "projectUniqueName": "D:\\ThomsonReuters\\ContactManagement.Business\\ContactManagement.Business.csproj",
       "projectName": "ContactManagement.Business",
-      "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj",
+      "projectPath": "D:\\ThomsonReuters\\ContactManagement.Business\\ContactManagement.Business.csproj",
       "packagesPath": "C:\\Users\\juliano.menezes\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\obj\\",
+      "outputPath": "D:\\ThomsonReuters\\ContactManagement.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -829,11 +829,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj": {
-              "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj"
+            "D:\\ThomsonReuters\\ContactManagement.Common\\ContactManagement.Common.csproj": {
+              "projectPath": "D:\\ThomsonReuters\\ContactManagement.Common\\ContactManagement.Common.csproj"
             },
-            "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
-              "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj"
+            "D:\\ThomsonReuters\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
+              "projectPath": "D:\\ThomsonReuters\\ContactManagement.Domain\\ContactManagement.Domain.csproj"
             }
           }
         }

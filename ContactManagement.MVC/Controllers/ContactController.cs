@@ -1,5 +1,4 @@
 ﻿using ContactManagement.Common.ViewModels;
-using ContactManagement.MVC.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Configuration;

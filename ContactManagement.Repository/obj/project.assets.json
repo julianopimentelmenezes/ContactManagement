@@ -658,11 +658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJETO\\ContactManagement\\ContactManagement.Repository\\ContactManagement.Repository.csproj",
+      "projectUniqueName": "D:\\ThomsonReuters\\ContactManagement.Repository\\ContactManagement.Repository.csproj",
       "projectName": "ContactManagement.Repository",
-      "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Repository\\ContactManagement.Repository.csproj",
+      "projectPath": "D:\\ThomsonReuters\\ContactManagement.Repository\\ContactManagement.Repository.csproj",
       "packagesPath": "C:\\Users\\juliano.menezes\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Repository\\obj\\",
+      "outputPath": "D:\\ThomsonReuters\\ContactManagement.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -683,8 +683,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
-              "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj"
+            "D:\\ThomsonReuters\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
+              "projectPath": "D:\\ThomsonReuters\\ContactManagement.Domain\\ContactManagement.Domain.csproj"
             }
           }
         }

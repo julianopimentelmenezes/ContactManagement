@@ -10,3 +10,14 @@ D:\PROJETO\ContactManagement\ContactManagement.Common\obj\Debug\net5.0\ContactMa
 D:\PROJETO\ContactManagement\ContactManagement.Common\obj\Debug\net5.0\ref\ContactManagement.Common.dll
 D:\PROJETO\ContactManagement\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.pdb
 D:\PROJETO\ContactManagement\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.csprojAssemblyReference.cache
+D:\ThomsonReuters\ContactManagement.Common\bin\Debug\net5.0\ContactManagement.Common.deps.json
+D:\ThomsonReuters\ContactManagement.Common\bin\Debug\net5.0\ContactManagement.Common.dll
+D:\ThomsonReuters\ContactManagement.Common\bin\Debug\net5.0\ref\ContactManagement.Common.dll
+D:\ThomsonReuters\ContactManagement.Common\bin\Debug\net5.0\ContactManagement.Common.pdb
+D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.AssemblyInfoInputs.cache
+D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.AssemblyInfo.cs
+D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.csproj.CoreCompileInputs.cache
+D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.dll
+D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ref\ContactManagement.Common.dll
+D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.pdb

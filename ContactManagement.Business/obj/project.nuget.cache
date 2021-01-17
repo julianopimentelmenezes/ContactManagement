@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y/gFOMDO2hnMLoNrrg3zayoupUUiKkvMxhz2ZoAuZ51QUR7VDGf5LRaDURN3gAX0Ac4DNUwgMBhDQruXXeHvCQ==",
+  "dgSpecHash": "ETF2kxqY4zed16pA1AaaYMQbOQ7Cj23eOwfmt/nyuUQyyIMTVkQXmtE4Gr1Xchi9vCBVic79oPwgdnJUCLUSxg==",
   "success": true,
-  "projectFilePath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj",
+  "projectFilePath": "D:\\ThomsonReuters\\ContactManagement.Business\\ContactManagement.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juliano.menezes\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\juliano.menezes\\.nuget\\packages\\domainvalidationcore\\1.1.1\\domainvalidationcore.1.1.1.nupkg.sha512",
