@@ -1,0 +1,17 @@
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Release\net5.0\ContactManagement.Repository.deps.json
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Release\net5.0\ContactManagement.Repository.dll
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Release\net5.0\ref\ContactManagement.Repository.dll
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Release\net5.0\ContactManagement.Repository.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Release\net5.0\ContactManagement.Common.dll
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Release\net5.0\ContactManagement.Domain.dll
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Release\net5.0\ContactManagement.Domain.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Release\net5.0\ContactManagement.Common.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Release\net5.0\ContactManagement.Repository.csprojAssemblyReference.cache
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Release\net5.0\ContactManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Release\net5.0\ContactManagement.Repository.AssemblyInfoInputs.cache
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Release\net5.0\ContactManagement.Repository.AssemblyInfo.cs
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Release\net5.0\ContactManagement.Repository.csproj.CoreCompileInputs.cache
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Release\net5.0\ContactManagement.Repository.csproj.CopyComplete
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Release\net5.0\ContactManagement.Repository.dll
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Release\net5.0\ref\ContactManagement.Repository.dll
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Release\net5.0\ContactManagement.Repository.pdb

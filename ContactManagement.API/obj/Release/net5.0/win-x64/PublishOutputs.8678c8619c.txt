@@ -1,0 +1,15 @@
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\nlog.config
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.json
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\ContactManagement.API.pdb
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\clrcompression.dll
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\clrjit.dll
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\coreclr.dll
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\mscordaccore.dll
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\aspnetcorev2_inprocess.dll
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\ContactManagement.Business.pdb
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\ContactManagement.IoC.pdb
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\ContactManagement.Common.pdb
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\ContactManagement.Domain.pdb
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\ContactManagement.Repository.pdb
+D:\PROJETO\ContactManagement\ContactManagement.API\obj\Release\net5.0\win-x64\PubTmp\Out\ContactManagement.API.exe

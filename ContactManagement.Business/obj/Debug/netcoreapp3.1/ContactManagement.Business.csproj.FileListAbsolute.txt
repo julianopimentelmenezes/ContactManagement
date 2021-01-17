@@ -1,0 +1,14 @@
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Debug\netcoreapp3.1\ContactManagement.Business.csprojAssemblyReference.cache
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Debug\netcoreapp3.1\ContactManagement.Business.AssemblyInfoInputs.cache
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Debug\netcoreapp3.1\ContactManagement.Business.AssemblyInfo.cs
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Debug\netcoreapp3.1\ContactManagement.Business.csproj.CoreCompileInputs.cache
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Debug\netcoreapp3.1\ContactManagement.Business.deps.json
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Debug\netcoreapp3.1\ContactManagement.Business.dll
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Debug\netcoreapp3.1\ContactManagement.Business.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Debug\netcoreapp3.1\ContactManagement.Common.dll
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Debug\netcoreapp3.1\ContactManagement.Domain.dll
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Debug\netcoreapp3.1\ContactManagement.Common.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Debug\netcoreapp3.1\ContactManagement.Domain.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Debug\netcoreapp3.1\ContactManagement.Business.csproj.CopyComplete
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Debug\netcoreapp3.1\ContactManagement.Business.dll
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Debug\netcoreapp3.1\ContactManagement.Business.pdb

@@ -1,0 +1,14 @@
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Debug\netcoreapp3.1\ContactManagement.Repository.AssemblyInfoInputs.cache
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Debug\netcoreapp3.1\ContactManagement.Repository.AssemblyInfo.cs
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Debug\netcoreapp3.1\ContactManagement.Repository.csproj.CoreCompileInputs.cache
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Debug\netcoreapp3.1\ContactManagement.Repository.deps.json
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Debug\netcoreapp3.1\ContactManagement.Repository.dll
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Debug\netcoreapp3.1\ContactManagement.Repository.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Debug\netcoreapp3.1\ContactManagement.Common.dll
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Debug\netcoreapp3.1\ContactManagement.Domain.dll
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Debug\netcoreapp3.1\ContactManagement.Domain.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Repository\bin\Debug\netcoreapp3.1\ContactManagement.Common.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Debug\netcoreapp3.1\ContactManagement.Repository.csprojAssemblyReference.cache
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Debug\netcoreapp3.1\ContactManagement.Repository.csproj.CopyComplete
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Debug\netcoreapp3.1\ContactManagement.Repository.dll
+D:\PROJETO\ContactManagement\ContactManagement.Repository\obj\Debug\netcoreapp3.1\ContactManagement.Repository.pdb

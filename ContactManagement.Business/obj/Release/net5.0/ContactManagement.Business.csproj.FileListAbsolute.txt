@@ -1,0 +1,17 @@
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Release\net5.0\ContactManagement.Business.deps.json
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Release\net5.0\ContactManagement.Business.dll
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Release\net5.0\ref\ContactManagement.Business.dll
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Release\net5.0\ContactManagement.Business.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Release\net5.0\ContactManagement.Common.dll
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Release\net5.0\ContactManagement.Domain.dll
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Release\net5.0\ContactManagement.Common.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Business\bin\Release\net5.0\ContactManagement.Domain.pdb
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Release\net5.0\ContactManagement.Business.csprojAssemblyReference.cache
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Release\net5.0\ContactManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Release\net5.0\ContactManagement.Business.AssemblyInfoInputs.cache
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Release\net5.0\ContactManagement.Business.AssemblyInfo.cs
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Release\net5.0\ContactManagement.Business.csproj.CoreCompileInputs.cache
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Release\net5.0\ContactManagement.Business.csproj.CopyComplete
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Release\net5.0\ContactManagement.Business.dll
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Release\net5.0\ref\ContactManagement.Business.dll
+D:\PROJETO\ContactManagement\ContactManagement.Business\obj\Release\net5.0\ContactManagement.Business.pdb

@@ -1,0 +1,662 @@
+2021-01-16 15:50:48.1132 Info Message Template Auto Format enabled
+2021-01-16 15:50:48.1247 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 15:50:48.1926 Info Adding target FileTarget(Name=allfile)
+2021-01-16 15:50:48.1926 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 15:50:48.2363 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 15:50:48.2604 Info Configuration initialized.
+2021-01-16 15:50:48.2631 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-16 15:55:02.1942 Info Message Template Auto Format enabled
+2021-01-16 15:55:02.1942 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 15:55:02.2470 Info Adding target FileTarget(Name=allfile)
+2021-01-16 15:55:02.2470 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 15:55:02.2801 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 15:55:02.2982 Info Configuration initialized.
+2021-01-16 15:55:02.2996 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-16 17:27:50.1849 Info Message Template Auto Format enabled
+2021-01-16 17:27:50.2036 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 17:27:50.2530 Info Adding target FileTarget(Name=allfile)
+2021-01-16 17:27:50.2695 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 17:27:50.3121 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 17:27:50.3264 Info Configuration initialized.
+2021-01-16 17:27:50.3264 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-16 17:52:24.2886 Info Message Template Auto Format enabled
+2021-01-16 17:52:24.3064 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 17:52:24.3655 Info Adding target FileTarget(Name=allfile)
+2021-01-16 17:52:24.3655 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 17:52:24.3978 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 17:52:24.4193 Info Configuration initialized.
+2021-01-16 17:52:24.4193 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-16 17:58:23.6192 Info Message Template Auto Format enabled
+2021-01-16 17:58:23.6435 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 17:58:23.6954 Info Adding target FileTarget(Name=allfile)
+2021-01-16 17:58:23.6954 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 17:58:23.7363 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 17:58:23.7664 Info Configuration initialized.
+2021-01-16 17:58:23.7684 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-16 18:01:20.4511 Info Message Template Auto Format enabled
+2021-01-16 18:01:20.4946 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 18:01:20.6290 Info Adding target FileTarget(Name=allfile)
+2021-01-16 18:01:20.6290 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 18:01:20.6839 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 18:01:20.7249 Info Configuration initialized.
+2021-01-16 18:01:20.7249 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-16 18:11:56.3507 Info Message Template Auto Format enabled
+2021-01-16 18:11:56.3682 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 18:11:56.4327 Info Adding target FileTarget(Name=allfile)
+2021-01-16 18:11:56.4327 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 18:11:56.4622 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 18:11:56.4797 Info Configuration initialized.
+2021-01-16 18:11:56.4797 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-16 18:16:20.9873 Info Message Template Auto Format enabled
+2021-01-16 18:16:21.0073 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 18:16:21.0856 Info Adding target FileTarget(Name=allfile)
+2021-01-16 18:16:21.0856 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 18:16:21.1435 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 18:16:21.1698 Info Configuration initialized.
+2021-01-16 18:16:21.1698 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-16 19:55:30.4873 Info Message Template Auto Format enabled
+2021-01-16 19:55:30.5032 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 19:55:30.5709 Info Adding target FileTarget(Name=allfile)
+2021-01-16 19:55:30.5709 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 19:55:30.6026 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 19:55:30.6376 Info Configuration initialized.
+2021-01-16 19:55:30.6376 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-16 21:58:11.0455 Info Message Template Auto Format enabled
+2021-01-16 21:58:11.0573 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 21:58:11.1263 Info Adding target FileTarget(Name=allfile)
+2021-01-16 21:58:11.1263 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 21:58:11.1650 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 21:58:11.1810 Info Configuration initialized.
+2021-01-16 21:58:11.1810 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-16 21:58:12.0258 Info AppDomain Shutting down. Logger closing...
+2021-01-16 21:58:12.0498 Info Logger has been shut down.
+2021-01-16 21:58:44.1036 Info Message Template Auto Format enabled
+2021-01-16 21:58:44.1205 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-16 21:58:44.1883 Info Adding target FileTarget(Name=allfile)
+2021-01-16 21:58:44.1883 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-16 21:58:44.2365 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-16 21:58:44.2529 Info Configuration initialized.
+2021-01-16 21:58:44.2529 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 08:14:00.9093 Info Message Template Auto Format enabled
+2021-01-17 08:14:00.9739 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 08:14:01.1068 Info Adding target FileTarget(Name=allfile)
+2021-01-17 08:14:01.2016 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 08:14:01.2852 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 08:14:01.3297 Info Configuration initialized.
+2021-01-17 08:14:01.3379 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:14:08.0643 Info Message Template Auto Format enabled
+2021-01-17 10:14:08.8214 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:14:09.3994 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:14:09.4132 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:14:10.0566 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:14:10.6325 Info Configuration initialized.
+2021-01-17 10:14:10.6449 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:15:38.7627 Info Message Template Auto Format enabled
+2021-01-17 10:15:38.7869 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:15:38.8835 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:15:38.8835 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:15:38.9491 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:15:38.9930 Info Configuration initialized.
+2021-01-17 10:15:38.9930 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:18:20.5469 Info Message Template Auto Format enabled
+2021-01-17 10:18:20.5815 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:18:22.4153 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:18:22.4153 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:18:22.8782 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:18:23.4634 Info Configuration initialized.
+2021-01-17 10:18:23.4634 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:19:20.3632 Info Message Template Auto Format enabled
+2021-01-17 10:19:20.4039 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:19:20.5011 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:19:20.5045 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:19:20.5529 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:19:20.5906 Info Configuration initialized.
+2021-01-17 10:19:20.5906 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:23:33.0143 Info Message Template Auto Format enabled
+2021-01-17 10:23:33.0268 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:23:33.0845 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:23:33.0845 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:23:33.1114 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:23:33.1298 Info Configuration initialized.
+2021-01-17 10:23:33.1298 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:24:47.0639 Info Message Template Auto Format enabled
+2021-01-17 10:24:47.0814 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:24:47.1619 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:24:47.1619 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:24:47.2033 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:24:47.2330 Info Configuration initialized.
+2021-01-17 10:24:47.2330 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:26:56.3031 Info Message Template Auto Format enabled
+2021-01-17 10:26:56.3181 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:26:56.3815 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:26:56.3815 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:26:56.4146 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:26:56.4313 Info Configuration initialized.
+2021-01-17 10:26:56.4313 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:37:22.8506 Info Message Template Auto Format enabled
+2021-01-17 10:37:22.8684 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:37:22.9384 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:37:22.9410 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:37:22.9782 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:37:23.0102 Info Configuration initialized.
+2021-01-17 10:37:23.0102 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:38:10.7155 Info Message Template Auto Format enabled
+2021-01-17 10:38:10.7286 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:38:10.7786 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:38:10.7786 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:38:10.8030 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:38:10.8225 Info Configuration initialized.
+2021-01-17 10:38:10.8225 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:39:35.7561 Info Message Template Auto Format enabled
+2021-01-17 10:39:35.7693 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:39:35.8427 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:39:35.8471 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:39:35.8765 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:39:35.8998 Info Configuration initialized.
+2021-01-17 10:39:35.8998 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:40:48.5399 Info Message Template Auto Format enabled
+2021-01-17 10:40:48.9793 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:40:49.6290 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:40:49.6290 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:40:50.1008 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:40:50.8088 Info Configuration initialized.
+2021-01-17 10:40:50.8088 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:43:32.6276 Info Message Template Auto Format enabled
+2021-01-17 10:43:32.6607 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:43:32.7544 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:43:32.7544 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:43:32.8079 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:43:32.8386 Info Configuration initialized.
+2021-01-17 10:43:32.8386 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:44:57.8873 Info Message Template Auto Format enabled
+2021-01-17 10:44:57.9018 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:44:57.9756 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:44:57.9756 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:44:58.0267 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:44:58.0571 Info Configuration initialized.
+2021-01-17 10:44:58.0571 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:48:55.9064 Info Message Template Auto Format enabled
+2021-01-17 10:48:55.9263 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:48:56.0025 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:48:56.0025 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:48:56.0428 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:48:56.0632 Info Configuration initialized.
+2021-01-17 10:48:56.0654 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:50:17.3159 Info Message Template Auto Format enabled
+2021-01-17 10:50:17.3577 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:50:17.4683 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:50:17.4766 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:50:17.5285 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:50:17.5660 Info Configuration initialized.
+2021-01-17 10:50:17.5660 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:51:02.5402 Info Message Template Auto Format enabled
+2021-01-17 10:51:02.5632 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:51:02.6770 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:51:02.6770 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:51:02.7374 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:51:02.7771 Info Configuration initialized.
+2021-01-17 10:51:02.7771 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:51:35.8316 Info Message Template Auto Format enabled
+2021-01-17 10:51:35.8581 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:51:35.9661 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:51:35.9717 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:51:36.0584 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:51:36.1042 Info Configuration initialized.
+2021-01-17 10:51:36.1042 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:52:57.3857 Info Message Template Auto Format enabled
+2021-01-17 10:52:57.4090 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:52:57.4796 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:52:57.4796 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:52:57.5319 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:52:57.5595 Info Configuration initialized.
+2021-01-17 10:52:57.5595 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:55:41.2895 Info Message Template Auto Format enabled
+2021-01-17 10:55:41.3144 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:55:41.4033 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:55:41.4033 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:55:41.4520 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:55:41.4835 Info Configuration initialized.
+2021-01-17 10:55:41.4835 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:58:00.2225 Info Message Template Auto Format enabled
+2021-01-17 10:58:00.2416 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:58:00.3201 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:58:00.3201 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:58:00.3523 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:58:00.3844 Info Configuration initialized.
+2021-01-17 10:58:00.3844 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 10:58:53.5260 Info Message Template Auto Format enabled
+2021-01-17 10:58:53.5471 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 10:58:53.6437 Info Adding target FileTarget(Name=allfile)
+2021-01-17 10:58:53.6437 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 10:58:53.6908 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 10:58:53.7254 Info Configuration initialized.
+2021-01-17 10:58:53.7254 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 11:00:47.0962 Info Message Template Auto Format enabled
+2021-01-17 11:00:47.0962 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 11:00:47.1743 Info Adding target FileTarget(Name=allfile)
+2021-01-17 11:00:47.1779 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 11:00:47.2256 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 11:00:47.2578 Info Configuration initialized.
+2021-01-17 11:00:47.2578 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 11:04:24.5697 Info Message Template Auto Format enabled
+2021-01-17 11:04:24.5951 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 11:04:24.7007 Info Adding target FileTarget(Name=allfile)
+2021-01-17 11:04:24.7007 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 11:04:24.7647 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 11:04:24.7989 Info Configuration initialized.
+2021-01-17 11:04:24.8074 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 11:05:28.4970 Info Message Template Auto Format enabled
+2021-01-17 11:05:28.5187 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 11:05:28.6353 Info Adding target FileTarget(Name=allfile)
+2021-01-17 11:05:28.6353 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 11:05:28.6981 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 11:05:28.7335 Info Configuration initialized.
+2021-01-17 11:05:28.7335 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 11:07:06.9731 Info Message Template Auto Format enabled
+2021-01-17 11:07:06.9731 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 11:07:07.0465 Info Adding target FileTarget(Name=allfile)
+2021-01-17 11:07:07.0500 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 11:07:07.1003 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 11:07:07.1257 Info Configuration initialized.
+2021-01-17 11:07:07.1257 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 11:07:49.5165 Info Message Template Auto Format enabled
+2021-01-17 11:07:49.5479 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 11:07:49.6739 Info Adding target FileTarget(Name=allfile)
+2021-01-17 11:07:49.6802 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 11:07:49.7373 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 11:07:49.7779 Info Configuration initialized.
+2021-01-17 11:07:49.7779 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 11:08:26.1344 Info Message Template Auto Format enabled
+2021-01-17 11:08:26.1595 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 11:08:26.2420 Info Adding target FileTarget(Name=allfile)
+2021-01-17 11:08:26.2420 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 11:08:26.2843 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 11:08:26.3113 Info Configuration initialized.
+2021-01-17 11:08:26.3113 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 11:30:57.5296 Info Message Template Auto Format enabled
+2021-01-17 11:30:57.5508 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 11:30:57.6183 Info Adding target FileTarget(Name=allfile)
+2021-01-17 11:30:57.6183 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 11:30:57.6602 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 11:30:57.6949 Info Configuration initialized.
+2021-01-17 11:30:57.6949 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 11:59:27.8554 Info Message Template Auto Format enabled
+2021-01-17 11:59:27.8996 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 11:59:28.0742 Info Adding target FileTarget(Name=allfile)
+2021-01-17 11:59:28.0806 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 11:59:28.1410 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 11:59:28.1879 Info Configuration initialized.
+2021-01-17 11:59:28.1904 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 12:01:08.4847 Info Message Template Auto Format enabled
+2021-01-17 12:01:08.5046 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 12:01:08.5889 Info Adding target FileTarget(Name=allfile)
+2021-01-17 12:01:08.5889 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 12:01:08.6264 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 12:01:08.6574 Info Configuration initialized.
+2021-01-17 12:01:08.6593 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 12:56:12.2697 Info Message Template Auto Format enabled
+2021-01-17 12:56:12.2697 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 12:56:12.3239 Info Adding target FileTarget(Name=allfile)
+2021-01-17 12:56:12.3239 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 12:56:12.3517 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 12:56:12.3680 Info Configuration initialized.
+2021-01-17 12:56:12.3680 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 12:57:20.8740 Info Message Template Auto Format enabled
+2021-01-17 12:57:20.8928 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 12:57:21.0044 Info Adding target FileTarget(Name=allfile)
+2021-01-17 12:57:21.0044 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 12:57:21.0651 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 12:57:21.1015 Info Configuration initialized.
+2021-01-17 12:57:21.1015 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 13:01:18.6040 Info Message Template Auto Format enabled
+2021-01-17 13:01:18.6476 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 13:01:18.7415 Info Adding target FileTarget(Name=allfile)
+2021-01-17 13:01:18.7415 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 13:01:18.7816 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 13:01:18.8096 Info Configuration initialized.
+2021-01-17 13:01:18.8096 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 13:05:28.3409 Info Message Template Auto Format enabled
+2021-01-17 13:05:28.3624 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 13:05:28.4198 Info Adding target FileTarget(Name=allfile)
+2021-01-17 13:05:28.4269 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 13:05:28.4618 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 13:05:28.4979 Info Configuration initialized.
+2021-01-17 13:05:28.4979 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 13:32:52.1137 Info Message Template Auto Format enabled
+2021-01-17 13:32:52.1137 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 13:32:52.1857 Info Adding target FileTarget(Name=allfile)
+2021-01-17 13:32:52.1857 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 13:32:52.2176 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 13:32:52.2454 Info Configuration initialized.
+2021-01-17 13:32:52.2454 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 13:33:47.9117 Info Message Template Auto Format enabled
+2021-01-17 13:33:47.9314 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 13:33:48.0180 Info Adding target FileTarget(Name=allfile)
+2021-01-17 13:33:48.0211 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 13:33:48.0630 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 13:33:48.0923 Info Configuration initialized.
+2021-01-17 13:33:48.0923 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 13:36:02.1223 Info Message Template Auto Format enabled
+2021-01-17 13:36:02.1410 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 13:36:02.2057 Info Adding target FileTarget(Name=allfile)
+2021-01-17 13:36:02.2057 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 13:36:02.2347 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 13:36:02.2648 Info Configuration initialized.
+2021-01-17 13:36:02.2648 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 13:39:16.6965 Info Message Template Auto Format enabled
+2021-01-17 13:39:16.7157 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 13:39:16.7993 Info Adding target FileTarget(Name=allfile)
+2021-01-17 13:39:16.8024 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 13:39:16.8415 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 13:39:16.8683 Info Configuration initialized.
+2021-01-17 13:39:16.8683 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 13:39:59.5919 Info Message Template Auto Format enabled
+2021-01-17 13:39:59.6542 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 13:39:59.7794 Info Adding target FileTarget(Name=allfile)
+2021-01-17 13:39:59.7794 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 13:39:59.8549 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 13:39:59.8944 Info Configuration initialized.
+2021-01-17 13:39:59.8944 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 13:45:00.1653 Info Message Template Auto Format enabled
+2021-01-17 13:45:00.1960 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 13:45:00.2962 Info Adding target FileTarget(Name=allfile)
+2021-01-17 13:45:00.2962 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 13:45:00.3441 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 13:45:00.3752 Info Configuration initialized.
+2021-01-17 13:45:00.3752 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 13:47:00.6141 Info Message Template Auto Format enabled
+2021-01-17 13:47:00.6300 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 13:47:00.7123 Info Adding target FileTarget(Name=allfile)
+2021-01-17 13:47:00.7123 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 13:47:00.7557 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 13:47:00.7795 Info Configuration initialized.
+2021-01-17 13:47:00.7795 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 13:51:41.2661 Info Message Template Auto Format enabled
+2021-01-17 13:51:41.2804 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 13:51:41.3421 Info Adding target FileTarget(Name=allfile)
+2021-01-17 13:51:41.3421 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 13:51:41.3692 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 13:51:41.3877 Info Configuration initialized.
+2021-01-17 13:51:41.3877 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:01:09.2859 Info Message Template Auto Format enabled
+2021-01-17 14:01:09.2859 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:01:09.3721 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:01:09.3721 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:01:09.4106 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:01:09.4348 Info Configuration initialized.
+2021-01-17 14:01:09.4348 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:01:27.7434 Info Message Template Auto Format enabled
+2021-01-17 14:01:27.7620 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:01:27.8445 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:01:27.8468 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:01:27.8733 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:01:27.8894 Info Configuration initialized.
+2021-01-17 14:01:27.8894 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:03:46.8620 Info Message Template Auto Format enabled
+2021-01-17 14:03:46.8831 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:03:46.9839 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:03:46.9874 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:03:47.0225 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:03:47.0532 Info Configuration initialized.
+2021-01-17 14:03:47.0532 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:04:41.6832 Info Message Template Auto Format enabled
+2021-01-17 14:04:41.7056 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:04:41.8215 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:04:41.8215 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:04:41.8789 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:04:41.9176 Info Configuration initialized.
+2021-01-17 14:04:41.9176 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:06:46.7397 Info Message Template Auto Format enabled
+2021-01-17 14:06:46.7593 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:06:46.8629 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:06:46.8629 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:06:46.9183 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:06:46.9524 Info Configuration initialized.
+2021-01-17 14:06:46.9524 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:08:47.9969 Info Message Template Auto Format enabled
+2021-01-17 14:08:48.0157 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:08:48.1069 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:08:48.1069 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:08:48.1485 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:08:48.1795 Info Configuration initialized.
+2021-01-17 14:08:48.1795 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:21:39.4748 Info Message Template Auto Format enabled
+2021-01-17 14:21:39.4891 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:21:39.5664 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:21:39.5664 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:21:39.6083 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:21:39.6354 Info Configuration initialized.
+2021-01-17 14:21:39.6354 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:21:54.7046 Info Message Template Auto Format enabled
+2021-01-17 14:21:54.7202 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:21:54.7850 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:21:54.7850 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:21:54.8304 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:21:54.8590 Info Configuration initialized.
+2021-01-17 14:21:54.8590 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:26:49.3714 Info Message Template Auto Format enabled
+2021-01-17 14:26:49.3960 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:26:49.4675 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:26:49.4675 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:26:49.4988 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:26:49.5191 Info Configuration initialized.
+2021-01-17 14:26:49.5191 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:30:08.0331 Info Message Template Auto Format enabled
+2021-01-17 14:30:08.0582 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:30:08.1869 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:30:08.1898 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:30:08.2497 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:30:08.2845 Info Configuration initialized.
+2021-01-17 14:30:08.2845 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:32:25.1961 Info Message Template Auto Format enabled
+2021-01-17 14:32:25.2115 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:32:25.2676 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:32:25.2702 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:32:25.2979 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:32:25.3188 Info Configuration initialized.
+2021-01-17 14:32:25.3188 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:34:28.0493 Info Message Template Auto Format enabled
+2021-01-17 14:34:28.0740 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:34:28.1484 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:34:28.1484 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:34:28.1872 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:34:28.2099 Info Configuration initialized.
+2021-01-17 14:34:28.2099 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:37:06.2643 Info Message Template Auto Format enabled
+2021-01-17 14:37:06.2742 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:37:06.3155 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:37:06.3155 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:37:06.3382 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:37:06.3555 Info Configuration initialized.
+2021-01-17 14:37:06.3555 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:37:23.9516 Info Message Template Auto Format enabled
+2021-01-17 14:37:23.9658 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:37:24.0361 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:37:24.0361 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:37:24.0780 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:37:24.0986 Info Configuration initialized.
+2021-01-17 14:37:24.0986 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:38:04.5724 Info Message Template Auto Format enabled
+2021-01-17 14:38:04.5884 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:38:04.6643 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:38:04.6643 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:38:04.7121 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:38:04.7484 Info Configuration initialized.
+2021-01-17 14:38:04.7484 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:39:50.4059 Info Message Template Auto Format enabled
+2021-01-17 14:39:50.4301 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:39:50.5360 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:39:50.5360 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:39:50.5829 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:39:50.6104 Info Configuration initialized.
+2021-01-17 14:39:50.6122 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:40:50.5562 Info Message Template Auto Format enabled
+2021-01-17 14:40:50.5700 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:40:50.6398 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:40:50.6433 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:40:50.6804 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:40:50.7100 Info Configuration initialized.
+2021-01-17 14:40:50.7100 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:46:50.4729 Info Message Template Auto Format enabled
+2021-01-17 14:46:50.4927 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:46:50.5557 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:46:50.5557 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:46:50.5873 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:46:50.6091 Info Configuration initialized.
+2021-01-17 14:46:50.6091 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:50:28.3154 Info Message Template Auto Format enabled
+2021-01-17 14:50:28.3154 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:50:28.3816 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:50:28.3816 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:50:28.4126 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:50:28.4340 Info Configuration initialized.
+2021-01-17 14:50:28.4340 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:53:50.7556 Info Message Template Auto Format enabled
+2021-01-17 14:53:50.7783 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:53:50.8601 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:53:50.8642 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:53:50.8974 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:53:50.9188 Info Configuration initialized.
+2021-01-17 14:53:50.9188 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:57:49.8936 Info Message Template Auto Format enabled
+2021-01-17 14:57:49.8936 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:57:49.9541 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:57:49.9586 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:57:49.9940 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:57:50.0149 Info Configuration initialized.
+2021-01-17 14:57:50.0149 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 14:58:12.6196 Info Message Template Auto Format enabled
+2021-01-17 14:58:12.6363 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 14:58:12.7039 Info Adding target FileTarget(Name=allfile)
+2021-01-17 14:58:12.7071 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 14:58:12.7398 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 14:58:12.7683 Info Configuration initialized.
+2021-01-17 14:58:12.7683 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 15:00:18.8541 Info Message Template Auto Format enabled
+2021-01-17 15:00:18.8693 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 15:00:18.9358 Info Adding target FileTarget(Name=allfile)
+2021-01-17 15:00:18.9358 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 15:00:18.9684 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 15:00:18.9872 Info Configuration initialized.
+2021-01-17 15:00:18.9872 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 15:01:07.3251 Info Message Template Auto Format enabled
+2021-01-17 15:01:07.3558 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 15:01:07.4692 Info Adding target FileTarget(Name=allfile)
+2021-01-17 15:01:07.4734 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 15:01:07.5462 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 15:01:07.5833 Info Configuration initialized.
+2021-01-17 15:01:07.5833 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 15:02:03.2500 Info Message Template Auto Format enabled
+2021-01-17 15:02:03.2702 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 15:02:03.3472 Info Adding target FileTarget(Name=allfile)
+2021-01-17 15:02:03.3472 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 15:02:03.3934 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 15:02:03.4184 Info Configuration initialized.
+2021-01-17 15:02:03.4184 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 15:04:20.5594 Info Message Template Auto Format enabled
+2021-01-17 15:04:20.5780 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 15:04:20.6518 Info Adding target FileTarget(Name=allfile)
+2021-01-17 15:04:20.6518 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 15:04:20.6909 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 15:04:20.7093 Info Configuration initialized.
+2021-01-17 15:04:20.7093 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 15:18:19.5392 Info Message Template Auto Format enabled
+2021-01-17 15:18:19.5565 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 15:18:19.6129 Info Adding target FileTarget(Name=allfile)
+2021-01-17 15:18:19.6129 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 15:18:19.6472 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 15:18:19.6647 Info Configuration initialized.
+2021-01-17 15:18:19.6647 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 15:46:53.7368 Info Message Template Auto Format enabled
+2021-01-17 15:46:53.7493 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 15:46:53.7955 Info Adding target FileTarget(Name=allfile)
+2021-01-17 15:46:53.7955 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 15:46:53.8216 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 15:46:53.8436 Info Configuration initialized.
+2021-01-17 15:46:53.8436 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 15:48:18.7081 Info Message Template Auto Format enabled
+2021-01-17 15:48:18.7263 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 15:48:18.7862 Info Adding target FileTarget(Name=allfile)
+2021-01-17 15:48:18.7862 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 15:48:18.8211 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 15:48:18.8444 Info Configuration initialized.
+2021-01-17 15:48:18.8444 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 15:52:31.5867 Info Message Template Auto Format enabled
+2021-01-17 15:52:31.6018 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 15:52:31.6721 Info Adding target FileTarget(Name=allfile)
+2021-01-17 15:52:31.6746 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 15:52:31.8225 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 15:52:31.8579 Info Configuration initialized.
+2021-01-17 15:52:31.8579 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 15:52:47.5932 Info Message Template Auto Format enabled
+2021-01-17 15:52:47.6082 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 15:52:47.6826 Info Adding target FileTarget(Name=allfile)
+2021-01-17 15:52:47.6826 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 15:52:47.7129 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 15:52:47.7312 Info Configuration initialized.
+2021-01-17 15:52:47.7312 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 15:58:29.4109 Info Message Template Auto Format enabled
+2021-01-17 15:58:29.4321 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 15:58:29.5325 Info Adding target FileTarget(Name=allfile)
+2021-01-17 15:58:29.5376 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 15:58:29.6456 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 15:58:29.6769 Info Configuration initialized.
+2021-01-17 15:58:29.6769 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 16:12:59.4856 Info Message Template Auto Format enabled
+2021-01-17 16:12:59.5098 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 16:14:03.7703 Info Message Template Auto Format enabled
+2021-01-17 16:14:03.7886 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 16:14:03.8761 Info Adding target FileTarget(Name=allfile)
+2021-01-17 16:14:03.8818 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 16:14:03.9243 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 16:14:03.9551 Info Configuration initialized.
+2021-01-17 16:14:03.9575 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 16:15:12.1235 Info Message Template Auto Format enabled
+2021-01-17 16:15:12.1614 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 16:15:12.2937 Info Adding target FileTarget(Name=allfile)
+2021-01-17 16:15:12.2937 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 16:15:12.3557 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 16:15:12.3958 Info Configuration initialized.
+2021-01-17 16:15:12.3958 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 16:32:57.8710 Info Message Template Auto Format enabled
+2021-01-17 16:32:57.8869 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 16:32:57.9632 Info Adding target FileTarget(Name=allfile)
+2021-01-17 16:32:57.9632 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 16:32:57.9999 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 16:32:58.0345 Info Configuration initialized.
+2021-01-17 16:32:58.0345 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 16:36:11.7906 Info Message Template Auto Format enabled
+2021-01-17 16:36:12.4843 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 16:36:12.5541 Info Adding target FileTarget(Name=allfile)
+2021-01-17 16:36:12.5541 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 16:36:12.5904 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 16:36:12.6157 Info Configuration initialized.
+2021-01-17 16:36:12.6157 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 16:37:23.6454 Info Message Template Auto Format enabled
+2021-01-17 16:37:23.6662 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 16:37:23.7635 Info Adding target FileTarget(Name=allfile)
+2021-01-17 16:37:23.7635 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 16:37:23.8123 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 16:37:23.8490 Info Configuration initialized.
+2021-01-17 16:37:23.8490 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 16:38:49.1619 Info Message Template Auto Format enabled
+2021-01-17 16:38:49.1801 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 16:38:49.2536 Info Adding target FileTarget(Name=allfile)
+2021-01-17 16:38:49.2536 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 16:38:49.2964 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 16:38:49.3274 Info Configuration initialized.
+2021-01-17 16:38:49.3304 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 16:46:12.0559 Info Message Template Auto Format enabled
+2021-01-17 16:46:12.0877 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 16:46:12.2086 Info Adding target FileTarget(Name=allfile)
+2021-01-17 16:46:12.2086 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 16:46:12.2786 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 16:46:12.3169 Info Configuration initialized.
+2021-01-17 16:46:12.3169 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False
+2021-01-17 16:47:04.8741 Info Message Template Auto Format enabled
+2021-01-17 16:47:04.8977 Info Loading assembly: NLog.Web.AspNetCore
+2021-01-17 16:47:05.0208 Info Adding target FileTarget(Name=allfile)
+2021-01-17 16:47:05.0208 Info Adding target FileTarget(Name=ownFile-web)
+2021-01-17 16:47:05.0963 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=51, FilePath=D:\PROJETO\ContactManagement\ContactManagement.API\bin\Debug\net5.0\NLog.config
+2021-01-17 16:47:05.1430 Info Configuration initialized.
+2021-01-17 16:47:05.1430 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.6.12219. Product version: 4.7.6+e16065c1f397a4b0a5beed10d2e79bbedc1fd1e6. GlobalAssemblyCache: False

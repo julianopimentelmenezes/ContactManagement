@@ -1,0 +1,582 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PROJETO\\ContactManagement\\ContactManagement.IntegrationTest.API\\ContactManagement.IntegrationTest.API.csproj": {}
+  },
+  "projects": {
+    "D:\\PROJETO\\ContactManagement\\ContactManagement.API\\ContactManagement.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJETO\\ContactManagement\\ContactManagement.API\\ContactManagement.API.csproj",
+        "projectName": "ContactManagement.API",
+        "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.API\\ContactManagement.API.csproj",
+        "packagesPath": "C:\\Users\\juliano.menezes\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\juliano.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.10.0.190:61775/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj"
+              },
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.IoC\\ContactManagement.IoC.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.IoC\\ContactManagement.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.6, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "Swashbuckle.AspNetCore.Newtonsoft": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj",
+        "projectName": "ContactManagement.Business",
+        "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj",
+        "packagesPath": "C:\\Users\\juliano.menezes\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\juliano.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.10.0.190:61775/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj"
+              },
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj",
+        "projectName": "ContactManagement.Common",
+        "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj",
+        "packagesPath": "C:\\Users\\juliano.menezes\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\juliano.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.10.0.190:61775/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj",
+        "projectName": "ContactManagement.Domain",
+        "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\juliano.menezes\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\juliano.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.10.0.190:61775/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "DomainValidationCore": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJETO\\ContactManagement\\ContactManagement.IntegrationTest.API\\ContactManagement.IntegrationTest.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJETO\\ContactManagement\\ContactManagement.IntegrationTest.API\\ContactManagement.IntegrationTest.API.csproj",
+        "projectName": "ContactManagement.IntegrationTest.API",
+        "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.IntegrationTest.API\\ContactManagement.IntegrationTest.API.csproj",
+        "packagesPath": "C:\\Users\\juliano.menezes\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.IntegrationTest.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\juliano.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.10.0.190:61775/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.API\\ContactManagement.API.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.API\\ContactManagement.API.csproj"
+              },
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj"
+              },
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.8.3, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "System.DirectoryServices.Protocols": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJETO\\ContactManagement\\ContactManagement.IoC\\ContactManagement.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJETO\\ContactManagement\\ContactManagement.IoC\\ContactManagement.IoC.csproj",
+        "projectName": "ContactManagement.IoC",
+        "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.IoC\\ContactManagement.IoC.csproj",
+        "packagesPath": "C:\\Users\\juliano.menezes\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\juliano.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.10.0.190:61775/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Business\\ContactManagement.Business.csproj"
+              },
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Common\\ContactManagement.Common.csproj"
+              },
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj"
+              },
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Repository\\ContactManagement.Repository.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Repository\\ContactManagement.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PROJETO\\ContactManagement\\ContactManagement.Repository\\ContactManagement.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJETO\\ContactManagement\\ContactManagement.Repository\\ContactManagement.Repository.csproj",
+        "projectName": "ContactManagement.Repository",
+        "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Repository\\ContactManagement.Repository.csproj",
+        "packagesPath": "C:\\Users\\juliano.menezes\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\juliano.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.10.0.190:61775/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj": {
+                "projectPath": "D:\\PROJETO\\ContactManagement\\ContactManagement.Domain\\ContactManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
