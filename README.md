@@ -20,7 +20,6 @@ After, is just press the "Run All Tests" buttom.
 * [NET Core 5.0] - The web framework used
 * [Visual studio 2019] - The IDE used
 
-
 ## Authors
 
 * **Juliano Menezes**
@@ -28,3 +27,10 @@ After, is just press the "Run All Tests" buttom.
 ## License
 
 This project is licensed under the MIT License
+
+## Premises
+
+For this solution, i chose separete the front-end project to the back-end project. With this, both the back-end and the front-end can be replaced without impact.
+I used dependency injection in this project for flexibility.
+I used swagger to expose the API services.
+
