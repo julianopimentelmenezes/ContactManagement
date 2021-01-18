@@ -5,15 +5,16 @@ You can see the contact list, detail a contact, create a new contact, update a c
 
 ### Installing
 
-Open the ContactManagement.sln in the Visual studio 2019
+Donwload the whole project
+Open the solution "ContactManagement.sln" in the Visual studio 2019
 In the solution properties, select multiple startup projects and choose the ContactManagement.API and ContactManagement.MVC projects.
-Please, check if the applications have the appsettings.Development.json file.
-After it, in the file "appsettings.Development.json" from ContactManagement.MVC project, check if exists the tag "BasePathUrlAPI". This tag is responsible for store the API URL.
+Please, check if the applications have the file "appsettings.Development.json". Both application.
+After it, in the file "appsettings.Development.json" from ContactManagement.MVC project, check if exists the tag "BasePathUrlAPI". This tag is responsible for store the API URL. EX: "BasePathUrlAPI": "https://localhost:44376"
 
 ## Running the tests
 
 For automated tests, you will access the Test Explorer windows.
-After, is just press the "Run All Tests" buttom.
+After, press the "Run All Tests" buttom.
 
 ## Built With
 
