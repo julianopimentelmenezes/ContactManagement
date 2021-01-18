@@ -13,7 +13,7 @@ namespace ContactManagement.MVC
         }
 
         /// <summary>
-        /// In this function is configured the log
+        /// In this function, the log is configured
         /// </summary>
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)

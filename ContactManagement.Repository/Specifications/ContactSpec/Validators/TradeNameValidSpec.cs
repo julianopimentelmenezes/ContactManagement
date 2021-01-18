@@ -6,7 +6,7 @@ namespace ContactManagement.Repository.Specifications.ContactSpec.Validators
 {
     /// <summary>
     /// This class validate if the trade name was filled
-    /// This filed just will be validate if the contact type was equal Legal person
+    /// This filed only will be validate if the contact type was equal Legal person
     /// </summary>
     class TradeNameValidSpec : ISpecification<Contact>
     {

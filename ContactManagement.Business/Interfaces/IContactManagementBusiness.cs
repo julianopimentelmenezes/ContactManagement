@@ -4,7 +4,7 @@ using ContactManagement.Common.ViewModels.Bases;
 namespace ContactManagement.Business.Interfaces
 {
     /// <summary>
-    /// This interface declare all the contact management business services
+    /// This interface declare all the services of contact management 
     /// </summary>
     public interface IContactManagementBusiness
     {

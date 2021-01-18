@@ -11,13 +11,13 @@
         document.getElementById('Birthday').value = '';
         document.getElementById('Gender').selectedIndex = 0;
 
-        document.getElementById('Name').disabled = (valueSelected == 2);
-        document.getElementById('CompanyName').disabled = (valueSelected == 1);
-        document.getElementById('TradeName').disabled = (valueSelected == 1);
-        document.getElementById('Cpf').disabled = (valueSelected == 2);
-        document.getElementById('Cnpj').disabled = (valueSelected == 1);
-        document.getElementById('Birthday').disabled = (valueSelected == 2);
-        document.getElementById('Gender').disabled = (valueSelected == 2);
+        document.getElementById('Name').disabled = (valueSelected == '' || valueSelected == 2);
+        document.getElementById('CompanyName').disabled = (valueSelected == '' || valueSelected == 1);
+        document.getElementById('TradeName').disabled = (valueSelected == '' || valueSelected == 1);
+        document.getElementById('Cpf').disabled = (valueSelected == '' || valueSelected == 2);
+        document.getElementById('Cnpj').disabled = (valueSelected == '' || valueSelected == 1);
+        document.getElementById('Birthday').disabled = (valueSelected == '' || valueSelected == 2);
+        document.getElementById('Gender').disabled = (valueSelected == '' || valueSelected == 2);
     });
 
     let selectedIndex = document.getElementById('ContactType').selectedIndex;

@@ -7,7 +7,7 @@ using System;
 namespace ContactManagement.Business.Mappings
 {
     /// <summary>
-    /// This is a mapping profile class who map the view model class to domain class
+    /// This is a mapping profile class who map the viewmodel class to domain class
     /// </summary>
     class ViewModelToDomainMappingProfile : Profile
     {

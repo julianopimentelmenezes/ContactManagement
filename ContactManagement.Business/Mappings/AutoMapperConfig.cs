@@ -10,7 +10,6 @@ namespace ContactManagement.Business.Mappings
         /// <summary>
         /// This function add the mappings profiles
         /// </summary>
-        /// <returns>Object containing the mapper configuration<see cref="MapperConfiguration"/></returns>
         public static MapperConfiguration RegisterMappings()
         {
             return new MapperConfiguration(cfg =>

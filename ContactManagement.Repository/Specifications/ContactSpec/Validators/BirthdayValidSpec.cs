@@ -6,7 +6,7 @@ namespace ContactManagement.Repository.Specifications.ContactSpec.Validators
 {
     /// <summary>
     /// This class validate if the birthday was filled
-    /// This filed just will be validate if the contact type was equal Natural person
+    /// This filed only will be validate if the contact type was equal Natural person
     /// </summary>
     class BirthdayValidSpec : ISpecification<Contact>
     {

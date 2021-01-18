@@ -8,7 +8,7 @@ using System;
 namespace ContactManagement.Business.Mappings
 {
     /// <summary>
-    /// This is a mapping profile class who map the domain class to view model class
+    /// This is a mapping profile class who map the domain class to viewmodel class
     /// </summary>
     public class DomainToViewModelMappingProfile
         : Profile

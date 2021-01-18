@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace ContactManagement.Common.ViewModels
 {
     /// <summary>
-    /// This class is responsible to have the list of contact response fields
+    /// This class is responsible to have the response list of contact
     /// </summary>
     public class ContactsResponseViewModel
         : BaseResponseViewModel

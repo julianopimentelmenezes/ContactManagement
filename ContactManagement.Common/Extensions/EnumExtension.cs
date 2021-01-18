@@ -6,7 +6,7 @@ using System.Linq;
 namespace ContactManagement.Common.Extensions
 {
     /// <summary>
-    /// This class extends enum to add the functionality of get the description
+    /// This class extends enum adding the functionality of get the enum description
     /// </summary>
     public static class EnumExtension
     {

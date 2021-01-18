@@ -42,7 +42,7 @@ namespace ContactManagement.IoC
         }
 
         /// <summary>
-        /// In this function is configured the swagger. 
+        /// In this function, the swagger is configure. 
         /// </summary>
         public static IServiceCollection ConfigureSwaggerApi(this IServiceCollection services)
         {
@@ -61,7 +61,7 @@ namespace ContactManagement.IoC
         }
 
         /// <summary>
-        /// In this function is configured the automapper. Here is called the mapping register
+        /// In this function, the automapper is configured. Here is called the mapping register
         /// </summary>
         public static IServiceCollection ConfigureAutoMapper(this IServiceCollection services)
         {
@@ -75,8 +75,8 @@ namespace ContactManagement.IoC
         #region [Private functions]
 
         /// <summary>
-        /// In this function is configured the data context. 
-        /// Was used the new functionality In Memory Database. With this funcionality, is not necessary have any database.
+        /// In this function, the data context is configured.
+        /// Is used the new functionality InMemoryDatabase. With this funcionality, is not necessary have any database.
         /// </summary>
         private static IServiceCollection AddDataContext(this IServiceCollection services)
         {
@@ -86,7 +86,7 @@ namespace ContactManagement.IoC
         }
 
         /// <summary>
-        /// In this function is configured the business dependency. 
+        /// In this function, the business dependency is configured. 
         /// </summary>
         private static IServiceCollection AddBusiness(this IServiceCollection services)
         {
@@ -97,7 +97,7 @@ namespace ContactManagement.IoC
         }
 
         /// <summary>
-        /// In this function is configured the repository  dependency. 
+        /// In this function, the repository dependency is configured. 
         /// </summary>
         private static IServiceCollection AddRepository(this IServiceCollection services)
         {

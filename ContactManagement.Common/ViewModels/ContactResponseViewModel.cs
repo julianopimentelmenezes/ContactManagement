@@ -3,7 +3,7 @@
 namespace ContactManagement.Common.ViewModels
 {
     /// <summary>
-    /// This class is responsible to have the contact response fields
+    /// This class is responsible to have the response contact fields
     /// </summary>
     public class ContactResponseViewModel
         : BaseResponseViewModel

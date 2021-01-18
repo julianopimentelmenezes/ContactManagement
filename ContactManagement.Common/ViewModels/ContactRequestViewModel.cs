@@ -3,7 +3,7 @@
 namespace ContactManagement.Common.ViewModels
 {
     /// <summary>
-    /// This class is responsible to have the contact request fields
+    /// This class is responsible to have the request contact fields 
     /// </summary>
     public class ContactRequestViewModel
     {

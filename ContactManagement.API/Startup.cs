@@ -35,7 +35,7 @@ namespace ContactManagement.API
         }
 
         /// <summary>
-        /// In this function is configured the middleware swagger
+        /// In this function, the middleware swagger is configured
         /// Is called the function to create fake data
         /// </summary>
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ContactManagementContext contactManagementContext)

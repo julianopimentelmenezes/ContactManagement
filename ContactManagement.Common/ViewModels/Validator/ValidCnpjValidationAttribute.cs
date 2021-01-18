@@ -5,7 +5,7 @@ namespace ContactManagement.Common.ViewModels.Validator
 {
 	/// <summary>
 	/// This class creates a custom validation to validate if the CNPJ is valid
-	/// This validation just happens when the contact type is legal person
+	/// This validation only happens when the contact type is legal person
 	/// </summary>
 	public class ValidCnpjValidationAttribute : ValidationAttribute
     {

@@ -5,7 +5,7 @@ using System;
 namespace ContactManagement.Domain.Data
 {
     /// <summary>
-    /// Class responsible to the datacontext and initialize some data to use in development
+    /// Class responsible to the datacontext
     /// </summary>
     public class ContactManagementContext: DbContext
     {
@@ -17,7 +17,7 @@ namespace ContactManagement.Domain.Data
 
         /// <summary>
         /// This function create fake data to populate the database.
-        /// This is just used in development enviromnet
+        /// This is just used in development environment
         /// </summary>
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
