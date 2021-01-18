@@ -13,7 +13,7 @@ namespace ContactManagement.API
         }
 
         /// <summary>
-        /// In this method is configured the log
+        /// In this function is configured the log
         /// </summary>
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)

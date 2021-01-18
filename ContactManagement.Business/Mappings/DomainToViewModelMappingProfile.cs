@@ -8,11 +8,14 @@ using System;
 namespace ContactManagement.Business.Mappings
 {
     /// <summary>
-    /// Class responsible to mapping the domain class to view model class
+    /// This is a mapping profile class who map the domain class to view model class
     /// </summary>
     public class DomainToViewModelMappingProfile
         : Profile
     {
+        /// <summary>
+        /// Constructor class who create the map
+        /// </summary>
         public DomainToViewModelMappingProfile()
         {
             CreateMap<Contact, ContactViewModel>()
@@ -23,7 +26,7 @@ namespace ContactManagement.Business.Mappings
                 .ForMember(m => m.CompanyName, o => o.MapFrom(s => s.CompanyName))
                 .ForMember(m => m.TradeName, o => o.MapFrom(s => s.TradeName))
                 .ForMember(m => m.Cpf, o => o.MapFrom(s => CpfResolver(s.Cpf, s.ContactType)))
-                .ForMember(m => m.Cnpj, o => o.MapFrom(s => s.Cnpj))
+                .ForMember(m => m.Cnpj, o => o.MapFrom(s => CnpjResolver(s.Cnpj, s.ContactType)))
                 .ForMember(m => m.Birthday, o => o.MapFrom(s => s.Birthday))
                 .ForMember(m => m.Gender, o => o.MapFrom(s => GenderResolver(s.Gender, s.ContactType)))
                 .ForMember(m => m.GenderDescription, o => o.MapFrom(s => GenderDescriptionResolver(s.Gender, s.ContactType)))
@@ -35,7 +38,10 @@ namespace ContactManagement.Business.Mappings
                 .ForMember(m => m.AddressLine2, o => o.MapFrom(s => s.AddressLine2));
         }
 
-        #region [Private methods]
+        /// <summary>
+        /// Here are implemented the field convert functions
+        /// </summary>
+        #region [Private functions]
         private long? CpfResolver(string cpf, ContactTypeEnum? contactType)
         {
             return contactType switch
@@ -56,7 +62,6 @@ namespace ContactManagement.Business.Mappings
                 _ => (long?)null
             };
         }
-
         private int GenderResolver(GenderEnum? gender, ContactTypeEnum? contactType)
         {
             return contactType switch
@@ -67,7 +72,6 @@ namespace ContactManagement.Business.Mappings
                 _ => (int)GenderEnum.Undefined,
             };
         }
-
         private string GenderDescriptionResolver(GenderEnum? gender, ContactTypeEnum? contactType)
         {
             return contactType switch
@@ -79,6 +83,6 @@ namespace ContactManagement.Business.Mappings
             };
         }
 
-        #endregion [Private methods]
+        #endregion [Private functions]
     }
 }

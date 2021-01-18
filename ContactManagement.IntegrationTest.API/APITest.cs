@@ -9,7 +9,7 @@ namespace ContactManagement.IntegrationTest.API
 {
 
     /// <summary>
-    /// This class is responsible for test all business methods in the API application
+    /// This class is responsible for test all business functions in the API application
     /// </summary>
     public class APITest : IClassFixture<TestFixture<Startup>>
     {
@@ -33,6 +33,9 @@ namespace ContactManagement.IntegrationTest.API
             _contactManagementContext.Database.EnsureCreated();
         }
 
+        /// <summary>
+        /// This function test the business get contact list function
+        /// </summary>
         [Fact]
         public void TestGetContacts()
         {
@@ -41,6 +44,9 @@ namespace ContactManagement.IntegrationTest.API
             Assert.True(result.Sucess);
         }
 
+        /// <summary>
+        /// This function test the business get contact function using the id 1
+        /// </summary>
         [Theory]
         [InlineData(1)]
         public void TestGetContact(long id)
@@ -50,6 +56,9 @@ namespace ContactManagement.IntegrationTest.API
             Assert.True(result.Sucess);
         }
 
+        /// <summary>
+        /// This function test the business create contact function using a fake contact
+        /// </summary>
         [Fact]
         public void TestCreateContact()
         {
@@ -60,6 +69,9 @@ namespace ContactManagement.IntegrationTest.API
             Assert.True(result.Sucess);
         }
 
+        /// <summary>
+        /// This function test the business update contact function using the id 1 and a fake contact
+        /// </summary>
         [Fact]
         public void TestUpdateContact()
         {
@@ -70,6 +82,9 @@ namespace ContactManagement.IntegrationTest.API
             Assert.True(result.Sucess);
         }
 
+        /// <summary>
+        /// This function test the business delete contact function using the id 1
+        /// </summary>
         [Theory]
         [InlineData(3)]
         public void TestDeleteContact(long id)
@@ -79,6 +94,9 @@ namespace ContactManagement.IntegrationTest.API
             Assert.True(result.Sucess);
         }
 
+        /// <summary>
+        /// This function creates a fake contact
+        /// </summary>
         private ContactRequestViewModel GenerateContactRequestViewModel(bool update)
         {
             return new ContactRequestViewModel

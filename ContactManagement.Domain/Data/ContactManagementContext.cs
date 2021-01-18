@@ -14,6 +14,11 @@ namespace ContactManagement.Domain.Data
 
         public DbSet<Contact> Contacts { get; set; }
 
+
+        /// <summary>
+        /// This function create fake data to populate the database.
+        /// This is just used in development enviromnet
+        /// </summary>
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Contact>().HasData(

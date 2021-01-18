@@ -21,3 +21,4 @@ D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Co
 D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.dll
 D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ref\ContactManagement.Common.dll
 D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.pdb
+D:\ThomsonReuters\ContactManagement.Common\obj\Debug\net5.0\ContactManagement.Common.csprojAssemblyReference.cache

@@ -14,7 +14,7 @@ namespace ContactManagement.Repository
 {
 
     /// <summary>
-    /// This class implements contact repository methods
+    /// This class implements all the contact repository functions
     /// </summary>
     public class ContactRepository: IContactRepository
     {
@@ -84,7 +84,7 @@ namespace ContactManagement.Repository
             }
             catch (Exception ex)
             {
-                _logger.LogCritical($"An unexpected error occurred when tried to validate a contact in the create method. Contact [{JsonConvert.SerializeObject(entity)}]. Error message: {ex.Message}");
+                _logger.LogCritical($"An unexpected error occurred when tried to validate a contact in the create function. Contact [{JsonConvert.SerializeObject(entity)}]. Error message: {ex.Message}");
 
                 throw;
             }
@@ -97,7 +97,7 @@ namespace ContactManagement.Repository
             }
             catch (Exception ex)
             {
-                _logger.LogCritical($"An unexpected error occurred when tried to select a contact in the update method. Contact [{JsonConvert.SerializeObject(entity)}]. Error message: {ex.Message}");
+                _logger.LogCritical($"An unexpected error occurred when tried to select a contact in the update function. Contact [{JsonConvert.SerializeObject(entity)}]. Error message: {ex.Message}");
 
                 throw;
             }
@@ -110,7 +110,7 @@ namespace ContactManagement.Repository
             }
             catch (Exception ex)
             {
-                _logger.LogCritical($"An unexpected error occurred when tried to select a contact in the delete method. Contact id {id}. Error message: {ex.Message}");
+                _logger.LogCritical($"An unexpected error occurred when tried to select a contact in the delete function. Contact id {id}. Error message: {ex.Message}");
 
                 throw;
             }

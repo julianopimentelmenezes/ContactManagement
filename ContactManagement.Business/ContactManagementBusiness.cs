@@ -18,9 +18,10 @@ namespace ContactManagement.Business
     /// </summary>
     public class ContactManagementBusiness : IContactManagementBusiness
     {
-        readonly ILogger<ContactManagementBusiness> _logger;
-        readonly IMapper _mapper;
-        readonly IContactRepository _contactRepository;
+        private readonly ILogger<ContactManagementBusiness> _logger;
+        private readonly IMapper _mapper;
+        private readonly IContactRepository _contactRepository;
+
         public ContactManagementBusiness(ILoggerFactory loggerFactory,
                                          IMapper mapper,
                                          IContactRepository contactRepository)

@@ -27,6 +27,10 @@ namespace ContactManagement.API.Controllers
             _contactManagementBusiness = contactManagementBusiness;
         }
 
+        /// <summary>
+        /// Get the list of contacts
+        /// </summary>
+        /// <returns>List of contacts<see cref="ContactsResponseViewModel"/></returns>
         [HttpGet]
         [Route("GetContacts")]
         [ProducesResponseType(typeof(ContactsResponseViewModel), StatusCodes.Status200OK)]
@@ -69,6 +73,11 @@ namespace ContactManagement.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Get the a single contact
+        /// </summary>
+        /// <param name="id">Table identifier</param>
+        /// <returns>Single contact<see cref="ContactResponseViewModel"/></returns>
         [HttpGet]
         [Route("GetContact")]
         [ProducesResponseType(typeof(ContactResponseViewModel), StatusCodes.Status200OK)]
@@ -111,6 +120,11 @@ namespace ContactManagement.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Create a new contact
+        /// </summary>
+        /// <param name="model">Contact view model with the fields<see cref="ContactRequestViewModel"/></param>
+        /// <returns>Default response with status<see cref="BaseResponseViewModel"/></returns>
         [HttpPost]
         [Route("CreateContact")]
         [ProducesResponseType(typeof(BaseResponseViewModel), StatusCodes.Status200OK)]
@@ -153,6 +167,11 @@ namespace ContactManagement.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Update a contact
+        /// </summary>
+        /// <param name="model">Contact view model with the fields<see cref="ContactRequestViewModel"/></param>
+        /// <returns>Default response with status<see cref="BaseResponseViewModel"/></returns>
         [HttpPut]
         [Route("UpdateContact")]
         [ProducesResponseType(typeof(BaseResponseViewModel), StatusCodes.Status200OK)]
@@ -195,6 +214,11 @@ namespace ContactManagement.API.Controllers
             }
         }
 
+        /// <summary>
+        /// Delete a contact
+        /// </summary>
+        /// <param name="id">Table identifier</param>
+        /// <returns>Default response with status<see cref="BaseResponseViewModel"/></returns>
         [HttpDelete]
         [Route("DeleteContact")]
         [ProducesResponseType(typeof(BaseResponseViewModel), StatusCodes.Status200OK)]

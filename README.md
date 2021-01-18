@@ -31,6 +31,8 @@ This project is licensed under the MIT License
 ## Premises
 
 For this solution, i chose separete the front-end project to the back-end project. With this, both the back-end and the front-end can be replaced without impact.
-I used dependency injection in this project for flexibility.
-I used swagger to expose the API services.
-
+I used dependency injection beacause is a good developement pratice.
+To describe the API services i used swagger. 
+I used automapper to do the bind from model view to domain class.
+In this project was used the new functionality InMemoryDatabase. This net.core 5.0 functionality is a easy way to test your application without the need to have a dabatabase.
+For the test was used xunit framework.

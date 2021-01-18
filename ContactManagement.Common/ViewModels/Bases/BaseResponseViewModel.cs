@@ -3,7 +3,8 @@
 namespace ContactManagement.Common.ViewModels.Bases
 {
     /// <summary>
-    /// This class has the standarts field used to responde a API call.
+    /// This class has the standarts response API field.
+    /// All the services use this class or this class derivation to response a call.
     /// </summary>
     public class BaseResponseViewModel
     {

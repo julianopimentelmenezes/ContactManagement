@@ -7,10 +7,13 @@ using System;
 namespace ContactManagement.Business.Mappings
 {
     /// <summary>
-    /// Class responsible to mapping the view model class to domain class
+    /// This is a mapping profile class who map the view model class to domain class
     /// </summary>
     class ViewModelToDomainMappingProfile : Profile
     {
+        /// <summary>
+        /// Constructor class who create the map
+        /// </summary>
         public ViewModelToDomainMappingProfile()
         {
             CreateMap<ContactRequestViewModel, Contact>()
@@ -31,7 +34,10 @@ namespace ContactManagement.Business.Mappings
                 .ForMember(m => m.AddressLine2, o => o.MapFrom(s => s.AddressLine2));
         }
 
-        #region [Private methods]
+        /// <summary>
+        /// Here are implemented the field convert functions
+        /// </summary>
+        #region [Private functions]
         private string NameResolver(string name, ContactTypeEnum? contactType)
         {
             return contactType switch
@@ -42,7 +48,6 @@ namespace ContactManagement.Business.Mappings
                 _ => string.Empty,
             };
         }
-
         private string CompanyNameResolver(string companyName, ContactTypeEnum? contactType)
         {
             return contactType switch
@@ -53,7 +58,6 @@ namespace ContactManagement.Business.Mappings
                 _ => string.Empty,
             };
         }
-
         private string TradeNameResolver(string tradeName, ContactTypeEnum? contactType)
         {
             return contactType switch
@@ -64,7 +68,6 @@ namespace ContactManagement.Business.Mappings
                 _ => string.Empty,
             };
         }
-
         private DateTime? BirthdayResolver(DateTime? birthday, ContactTypeEnum? contactType)
         {
             return contactType switch
@@ -75,7 +78,6 @@ namespace ContactManagement.Business.Mappings
                 _ => (DateTime?)null,
             };
         }
-
         private GenderEnum? GenderResolver(GenderEnum? gender, ContactTypeEnum? contactType)
         {
             return contactType switch
@@ -87,7 +89,7 @@ namespace ContactManagement.Business.Mappings
             };
         }
 
-        #endregion [Private methods]
+        #endregion [Private functions]
     }
 }
 

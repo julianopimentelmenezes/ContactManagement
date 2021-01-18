@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 namespace ContactManagement.MVC.Controllers
 {
     /// <summary>
-    /// This class is the controller who has the web application
+    /// This is the web application controller
     /// </summary>
     public class ContactController : Controller
     {
@@ -22,6 +22,10 @@ namespace ContactManagement.MVC.Controllers
         private readonly IHttpClientFactory _httpClientFactory;
         private readonly string _basePathUrlAPI;
 
+        /// <summary>
+        /// The constructor initialize the base path url API
+        /// This property is used to use de API services
+        /// </summary>
         public ContactController(ILogger<ContactController> logger, IHttpClientFactory httpClientFactory, IConfiguration configuration)
         {
             _logger = logger;
@@ -30,6 +34,11 @@ namespace ContactManagement.MVC.Controllers
             _basePathUrlAPI = _configuration.GetValue<string>("BasePathUrlAPI");
         }
 
+        /// <summary>
+        /// This is the home page
+        /// When the application initialize, is showed the contact list
+        /// This function call the API get contact list function
+        /// </summary>
         public async Task<IActionResult> Index()
         {
             try
@@ -96,6 +105,11 @@ namespace ContactManagement.MVC.Controllers
 
         }
 
+        /// <summary>
+        /// This is the detail page
+        /// It will show the contact detail
+        /// This function call the API get contact function
+        /// </summary>
         public async Task<IActionResult> Details(int? id)
         {
             try
@@ -165,11 +179,18 @@ namespace ContactManagement.MVC.Controllers
 
         }
 
+        /// <summary>
+        /// This is the create page
+        /// It will open a page with contact fields. All the fields are empty.
+        /// </summary>
         public IActionResult Create()
         {
             return View();
         }
 
+        /// <summary>
+        /// This function will call the API create function to create a new contact
+        /// </summary>
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("ContactType,Name,CompanyName,TradeName,Cpf,Cnpj,Birthday,Gender,ZipCode,Country,State,City,AddressLine1,AddressLine2")] ContactViewModel contactViewModel)
@@ -243,6 +264,10 @@ namespace ContactManagement.MVC.Controllers
             return View(contactViewModel);
         }
 
+        /// <summary>
+        /// This is the edit page
+        /// It will open a page with contact fields. All the fields are filled when have data.
+        /// </summary>
         public async Task<IActionResult> Edit(int? id)
         {
             try
@@ -311,6 +336,9 @@ namespace ContactManagement.MVC.Controllers
             }
         }
 
+        /// <summary>
+        /// This function will call the API update function to update a contact
+        /// </summary>
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit([Bind("ContactId,ContactType,Name,CompanyName,TradeName,Cpf,Cnpj,Birthday,Gender,ZipCode,Country,State,City,AddressLine1,AddressLine2")] ContactViewModel contactViewModel)
@@ -384,6 +412,10 @@ namespace ContactManagement.MVC.Controllers
             return View(contactViewModel);
         }
 
+        /// <summary>
+        /// This is the delete page
+        /// It will open a page with the contact details to confirm if the contact will be deleted
+        /// </summary>
         public async Task<IActionResult> Delete(int? id)
         {
             try
@@ -452,6 +484,9 @@ namespace ContactManagement.MVC.Controllers
             }
         }
 
+        /// <summary>
+        /// This function will call the API delete function to delete a contact
+        /// </summary>
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
@@ -525,6 +560,10 @@ namespace ContactManagement.MVC.Controllers
             return View();
         }
 
+        /// <summary>
+        /// This is the error page
+        /// It will open a page with the error details.
+        /// </summary>
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error(string message)
         {

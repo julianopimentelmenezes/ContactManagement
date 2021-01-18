@@ -4,11 +4,12 @@ using System.ComponentModel.DataAnnotations;
 namespace ContactManagement.Common.ViewModels.Validator
 {
 	/// <summary>
-	/// This class is used to create a custom a validation to validate if the CNPJ is valid
+	/// This class creates a custom validation to validate if the CNPJ is valid
+	/// This validation just happens when the contact type is legal person
 	/// </summary>
 	public class ValidCnpjValidationAttribute : ValidationAttribute
     {
-        protected override ValidationResult IsValid(object value, ValidationContext validationContext)
+		protected override ValidationResult IsValid(object value, ValidationContext validationContext)
         {
             var contactViewModel = (ContactViewModel)validationContext.ObjectInstance;
 

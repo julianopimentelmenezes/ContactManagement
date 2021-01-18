@@ -6,11 +6,10 @@ using System.Linq;
 namespace ContactManagement.Common.Extensions
 {
     /// <summary>
-    /// This extends class has the functionality of get the description from the enumeration
+    /// This class extends enum to add the functionality of get the description
     /// </summary>
     public static class EnumExtension
     {
-
         public static string GetDescription(this Enum source)
         {
             var description = string.Empty;

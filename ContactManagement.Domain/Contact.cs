@@ -4,7 +4,7 @@ using System;
 namespace ContactManagement.Domain
 {
     /// <summary>
-    /// This class represent the contact model
+    /// This class represent the contact domain model
     /// </summary>
     public class Contact
     {

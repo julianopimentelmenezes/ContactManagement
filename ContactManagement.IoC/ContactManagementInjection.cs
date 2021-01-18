@@ -42,7 +42,7 @@ namespace ContactManagement.IoC
         }
 
         /// <summary>
-        /// In this method is configured the swagger. 
+        /// In this function is configured the swagger. 
         /// </summary>
         public static IServiceCollection ConfigureSwaggerApi(this IServiceCollection services)
         {
@@ -61,7 +61,7 @@ namespace ContactManagement.IoC
         }
 
         /// <summary>
-        /// In this method is configured the automapper. Here is called the mapping register
+        /// In this function is configured the automapper. Here is called the mapping register
         /// </summary>
         public static IServiceCollection ConfigureAutoMapper(this IServiceCollection services)
         {
@@ -72,10 +72,10 @@ namespace ContactManagement.IoC
             return services;
         }
 
-        #region [Private methods]
+        #region [Private functions]
 
         /// <summary>
-        /// In this method is configured the data context. 
+        /// In this function is configured the data context. 
         /// Was used the new functionality In Memory Database. With this funcionality, is not necessary have any database.
         /// </summary>
         private static IServiceCollection AddDataContext(this IServiceCollection services)
@@ -86,7 +86,7 @@ namespace ContactManagement.IoC
         }
 
         /// <summary>
-        /// In this method is configured the business dependency. 
+        /// In this function is configured the business dependency. 
         /// </summary>
         private static IServiceCollection AddBusiness(this IServiceCollection services)
         {
@@ -97,7 +97,7 @@ namespace ContactManagement.IoC
         }
 
         /// <summary>
-        /// In this method is configured the repository  dependency. 
+        /// In this function is configured the repository  dependency. 
         /// </summary>
         private static IServiceCollection AddRepository(this IServiceCollection services)
         {
@@ -107,7 +107,7 @@ namespace ContactManagement.IoC
             return services;
         }
 
-        #endregion [Private methods]
+        #endregion [Private functions]
 
     }
 }

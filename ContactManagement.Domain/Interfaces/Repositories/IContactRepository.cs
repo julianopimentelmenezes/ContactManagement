@@ -4,7 +4,7 @@ using DomainValidationCore.Validation;
 namespace ContactManagement.Domain.Interfaces.Repositories
 {
     /// <summary>
-    /// Interface responsible to the contact repository methods
+    /// This interface declare all the contact repository functions
     /// </summary>
     public interface IContactRepository
     {

@@ -3,10 +3,14 @@
 namespace ContactManagement.Business.Mappings
 {
     /// <summary>
-    /// Class responsible to call the mapper configuration from the mapping files
+    /// This class configure the mappings profiles
     /// </summary>
     public class AutoMapperConfig
     {
+        /// <summary>
+        /// This function add the mappings profiles
+        /// </summary>
+        /// <returns>Object containing the mapper configuration<see cref="MapperConfiguration"/></returns>
         public static MapperConfiguration RegisterMappings()
         {
             return new MapperConfiguration(cfg =>

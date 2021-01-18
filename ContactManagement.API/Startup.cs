@@ -34,6 +34,10 @@ namespace ContactManagement.API
                 .AddNewtonsoftJson(opcoes => opcoes.SerializerSettings.NullValueHandling = NullValueHandling.Ignore);
         }
 
+        /// <summary>
+        /// In this function is configured the middleware swagger
+        /// Is called the function to create fake data
+        /// </summary>
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ContactManagementContext contactManagementContext)
         {
             if (env.IsDevelopment())

@@ -4,7 +4,8 @@ using System.ComponentModel.DataAnnotations;
 namespace ContactManagement.Common.ViewModels.Validator
 {
     /// <summary>
-    /// This class is used to create a custom a validation to validate if the CPF is valid
+    /// This class creates a custom validation to validate if the CPF is valid
+    /// This validation just happens when the contact type is natural person
     /// </summary>
     public class ValidCpfValidationAttribute : ValidationAttribute
     {
